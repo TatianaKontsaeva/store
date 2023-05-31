@@ -1,0 +1,149 @@
+{
+      "products": [
+        {
+          "id": 9,
+          "img": "1.png",
+          "name": "Apple Watch SE",
+          "description": "Смарт-часы Apple Watch SE выполнены из алюминия цвета Midnight с ремешком из фторкаучука.",
+          "price": 28999,
+          "type": "smartwatch",
+          "quantity": 0
+        },
+        {
+          "id": 15,
+          "img": "2.png",
+          "name": "Apple iPad",
+          "description": "Планшет Apple iPad 10.2 Wi-Fi Silver с памятью объемом 64 Гб обладает 10,2-дюймовым экраном.",
+          "price": 56000,
+          "type": "tablet",
+          "quantity": 0
+        },
+        {
+          "id": 14,
+          "img": "3.jpg",
+          "name": "Apple Mac",
+          "description": "Apple MacBook Pro 16\" (M2 Max 12C CPU, 38C GPU, 2023) 32 ГБ, 1 ТБ SSD, «серый космос»",
+          "price": 260000,
+          "type": "pc",
+          "quantity": 0
+        },
+        {
+          "id": 2,
+          "img": "4.png",
+          "name": "Apple macBook Air",
+          "description": "Ноутбук Apple MacBook Air 13 M2 10 core Space Gray. Корпус девайса выполнен из алюминия",
+          "price": 170000,
+          "type": "laptop",
+          "quantity": 0
+        },
+        {
+          "id": 10,
+          "img": "5.webp",
+          "name": "Apple macBook",
+          "description": "Ноутбук Apple MacBook Pro 14, модель на базе энергоэффективного процессора.",
+          "price": 190000,
+          "type": "laptop",
+          "quantity": 0
+        },
+        {
+          "id": 11,
+          "img": "6.jpeg",
+          "name": "Apple macBook",
+          "description": "Ноутбук Apple MacBook Pro 14, модель на базе энергоэффективного процессора.",
+          "price": 190000,
+          "type": "laptop",
+          "quantity": 0
+        },
+        {
+          "id": 12,
+          "img": "1.png",
+          "name": "Apple iPhone 13",
+          "description": "Смартфон Apple iPhone 13 128 ГБ, Dual: nano SIM + eSIM, тёмная ночь ; аккумулятор. 3279 мА·ч ; ",
+          "price": 60000,
+          "type": "phone",
+          "quantity": 0
+        },
+        {
+          "id": 13,
+          "img": "2.png",
+          "name": "Apple iPhone 12",
+          "description": "Смартфон Apple iPhone 12 128 ГБ, Dual: nano SIM + eSIM, тёмная ночь ; аккумулятор. 3279 мА·ч ; ",
+          "price": 50000,
+          "type": "phone",
+          "quantity": 0
+        },
+        {
+          "id": 1,
+          "img": "2.png",
+          "name": "Apple iPhone 14",
+          "description": "Смартфон Apple iPhone 14 128 ГБ, Dual: nano SIM + eSIM, тёмная ночь ; аккумулятор. 3279 мА·ч ; ",
+          "price": 70000,
+          "type": "phone",
+          "quantity": 0
+        },
+        {
+          "id": 6,
+          "img":"1.png",
+          "name": "Apple Mac",
+          "description": "Apple MacBook Pro 16\" (M2 Max 12C CPU, 38C GPU, 2023) 32 ГБ, 1 ТБ SSD, «серый космос»",
+          "price": 240000,
+          "type": "pc",
+          "quantity": 0
+        },
+        {
+          "id": 8,
+          "img": "1.png",
+          "name": "Apple Watch 8",
+          "description": "Смарт-часы Apple Watch Series 8 Starlight с циферблатом диаметром 45 мм выполнены из алюминия.",
+          "price": 40499,
+          "type": "smartwatch",
+          "quantity": 0
+        },
+        {
+          "id": 7,
+          "img": "1.png",
+          "name": "Apple iPad",
+          "description": "Планшет Apple iPad mini Wi-Fi MK7V3 в алюминиевом корпусе цвета «сияющая звезда». ",
+          "price": 61990,
+          "type": "tablet",
+          "quantity": 0
+        },
+        {
+          "id": 5,
+          "img": "1.png",
+          "name": "Apple iPad mini",
+          "description": "Планшет Apple iPad mini Wi-Fi MK7V3 в алюминиевом корпусе цвета «сияющая звезда». ",
+          "price": 50000,
+          "type": "tablet",
+          "quantity": 0
+        },
+        {
+          "id": 4,
+          "img": "1.png",
+          "name": "Apple iPad",
+          "description": "Планшет Apple iPad 10.2 Wi-Fi Silver с памятью объемом 64 Гб обладает 10,2-дюймовым экраном.",
+          "price": 80000,
+          "type": "tablet",
+          "quantity": 0
+        },
+        {
+          "id": 16,
+          "img": "1.png",
+          "name": "Apple iPad mini",
+          "description": "Планшет Apple iPad mini Wi-Fi MK7V3 в алюминиевом корпусе цвета «сияющая звезда». ",
+          "price": 45000,
+          "type": "tablet",
+          "quantity": 0
+        },
+        {
+          "id": 3,
+          "img": "2.png",
+          "name": "Apple macBook",
+          "description": "Ноутбук Apple MacBook Pro 14, модель на базе энергоэффективного процессора.",
+          "price": 180000,
+          "type": "laptop",
+          "quantity": 0
+        }
+      ]
+    
+  }
